@@ -1,0 +1,11 @@
+C:\Users\itwis\source\repos\LR07\LR07\bin\Debug\LR07.exe.config
+C:\Users\itwis\source\repos\LR07\LR07\bin\Debug\LR07.exe
+C:\Users\itwis\source\repos\LR07\LR07\bin\Debug\LR07.pdb
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.csproj.AssemblyReference.cache
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.csproj.SuggestedBindingRedirects.cache
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.Form_Main.resources
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.Properties.Resources.resources
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.csproj.GenerateResource.cache
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.csproj.CoreCompileInputs.cache
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.exe
+C:\Users\itwis\source\repos\LR07\LR07\obj\Debug\LR07.pdb
