@@ -1,0 +1,11 @@
+C:\Users\itwis\source\repos\LR06\LR06\bin\Debug\LR06.exe.config
+C:\Users\itwis\source\repos\LR06\LR06\bin\Debug\LR06.exe
+C:\Users\itwis\source\repos\LR06\LR06\bin\Debug\LR06.pdb
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.csproj.SuggestedBindingRedirects.cache
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.Form1.resources
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.Properties.Resources.resources
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.csproj.GenerateResource.cache
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.csproj.CoreCompileInputs.cache
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.exe
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.pdb
+C:\Users\itwis\source\repos\LR06\LR06\obj\Debug\LR06.csproj.AssemblyReference.cache
