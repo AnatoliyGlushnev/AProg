@@ -1,0 +1,11 @@
+C:\Users\itwis\source\repos\LR08\LR08\bin\Debug\LR08.exe.config
+C:\Users\itwis\source\repos\LR08\LR08\bin\Debug\LR08.exe
+C:\Users\itwis\source\repos\LR08\LR08\bin\Debug\LR08.pdb
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.csproj.AssemblyReference.cache
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.csproj.SuggestedBindingRedirects.cache
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.form_main.resources
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.Properties.Resources.resources
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.csproj.GenerateResource.cache
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.csproj.CoreCompileInputs.cache
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.exe
+C:\Users\itwis\source\repos\LR08\LR08\obj\Debug\LR08.pdb
