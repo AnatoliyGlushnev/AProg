@@ -1,0 +1,5 @@
+D:\Прикладное Программирование (лабы)\Laba17WinForm\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Прикладное Программирование (лабы)\Laba17WinForm\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Прикладное Программирование (лабы)\Laba17WinForm\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Прикладное Программирование (лабы)\Laba17WinForm\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Прикладное Программирование (лабы)\Laba17WinForm\ClassLibrary\obj\Debug\ClassLibrary.pdb

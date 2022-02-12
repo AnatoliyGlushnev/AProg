@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba17WinForm", "Laba17WinForm\Laba17WinForm.csproj", "{084844C0-9B97-41C1-AD1B-C3EB99BE56FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{BFB3717B-8C0C-4744-9C91-8F5A81A20BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084844C0-9B97-41C1-AD1B-C3EB99BE56FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084844C0-9B97-41C1-AD1B-C3EB99BE56FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084844C0-9B97-41C1-AD1B-C3EB99BE56FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084844C0-9B97-41C1-AD1B-C3EB99BE56FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB3717B-8C0C-4744-9C91-8F5A81A20BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB3717B-8C0C-4744-9C91-8F5A81A20BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB3717B-8C0C-4744-9C91-8F5A81A20BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB3717B-8C0C-4744-9C91-8F5A81A20BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35BFC6B-E687-4613-A175-52218A7C20C8}
+	EndGlobalSection
+EndGlobal
